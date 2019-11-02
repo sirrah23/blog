@@ -10,7 +10,7 @@ thanks to [gatsby](https://www.gatsbyjs.org/) and the
 
 ### How to create a new blog post
 
-1. Create a new subdirectory in `./content` for your blog post
+1. Create a new subdirectory in `./content/blog` for your blog post
 2. Create an `index.md` file in the subdirectory and start typing away
 3. Throw any other assets (images, etc.) into the subdirectory and reference them
    as needed
